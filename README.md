@@ -16,7 +16,6 @@ Este projeto demonstra a integração de hardware (servo motor) com um banco de 
 
 * ESP32
 * Servo Motor (ex: SG90 ou MG996R)
-* (Hardware externo não coberto por este repo: câmera, computador com IA de classificação, etc.)
 
 ## 📦 Bibliotecas (Arduino/PlatformIO)
 
