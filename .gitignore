@@ -1,0 +1,10 @@
+# Arquivo .gitignore
+# Ignorar o arquivo de configurações e credenciais
+/config.h
+
+# Arquivos de build e cache
+/.vscode/
+/.pio/
+/build/
+*.bin
+*.elf
